@@ -137,4 +137,4 @@ Odoo ERP · Python · PySpark · Microsoft Fabric (Lakehouse, OneLake) · Power 
 ## Author
 
 **Your Name**
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/repon07) · [GitHub](https:README.md/)
