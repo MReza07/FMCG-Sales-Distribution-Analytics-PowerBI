@@ -10,15 +10,15 @@ An end-to-end analytics project. The data was generated inside a full **Odoo ERP
 
 | Executive Overview | Sales & Territory |
 |---|---|
-| ![Executive Overview](screenshots/01_executive_overview.png) | ![Sales & Territory](screenshots/02_sales_territory.png) |
+| ![Executive Overview](01_executive_overview.png) | ![Sales & Territory](02_sales_territory.png) |
 
 | Distributor Performance | Inventory & Fill Rate |
 |---|---|
-| ![Distributor Performance](screenshots/03_distributor_performance.png) | ![Inventory & Fill Rate](screenshots/04_inventory_fill_rate.png) |
+| ![Distributor Performance](03_distributor_performance.png) | ![Inventory & Fill Rate](04_inventory_fill_rate.png) |
 
 **Data model**
 
-![Data model](screenshots/05_data_model.png)
+![Data model](05_data_model.png)
 
 ---
 
@@ -45,7 +45,7 @@ flowchart LR
 
 | Apps | Sales orders | Lots / serial numbers |
 |---|---|---|
-| ![Odoo apps](screenshots/06_odoo_apps.png) | ![Odoo sales orders](screenshots/07_odoo_sales_order.png) | ![Odoo lots and serial numbers](screenshots/08_odoo_lot_serial.png) |
+| ![Odoo apps](06_odoo_apps.png) | ![Odoo sales orders](07_odoo_sales_order.png) | ![Odoo lots and serial numbers](08_odoo_lot_serial.png) |
 
 The Odoo instance holds 1,500 sales orders (confirmed and fully invoiced) and 150 lot/serial numbers, with lot tracking enabled on every product.
 
